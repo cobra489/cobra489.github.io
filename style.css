@@ -14,3 +14,10 @@ p.footer {
 	border-style: double;
 	border-radius: 10px;
 }
+
+div.canvas {
+	background-color: 0;
+	position: absolute;
+	top: 0%;
+	right: 0%;
+}
