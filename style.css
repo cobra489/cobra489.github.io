@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica, Futura;
+	margin: 0px;
+}
+
+p.footer {
+	margin: 5px;
+	background-color: rgb(120,120,70);
+	color: white;
+	padding:7px;
+	position: absolute;
+	right: 0%;
+	bottom: 0%;
+	border-style: double;
+	border-radius: 10px;
+}
